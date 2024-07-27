@@ -1,5 +1,5 @@
 ## Hi there 👋🏻 I'm Enikő, I'm a...
-- **Software Engineer** at [Imagination Technologies](https://www.imaginationtech.com/), formerly Machine Learning Engineer
+- **Machine Learning Researcher** at .lumen
 - **Machine Learning MSc Grad & Computer Science BSc Grad**
 
 ## :sparkles: My Tool Box
